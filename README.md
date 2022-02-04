@@ -24,7 +24,7 @@ public class Conversion {
             System.out.println("The decimal value for hex digit" + ch + " is " + ch);
         }
         else {
-            System.out.println(ch + "  Bis an invalid input");
+            System.out.println(ch + "  is an invalid input");
         }
     }
 }
